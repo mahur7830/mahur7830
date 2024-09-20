@@ -1,6 +1,9 @@
-
 <h1 align="center">Hi 👋, I'm ANIL KUMAR</h1>
 <h3 align="center">Looking for a position of web developer/Fresher</h3>
+<p>Passionate web development enthusiast currently</br> pursuing a Master of Computer Applications (MCA).</br>
+Focused on full-stack development.</br> Eager to learn and explore new technologies,</br>
+  enjoying projects that challenge and enhance skills.</p>
+
 <img align="right" alt="Coding" width="500" src="https://cdn.pixabay.com/photo/2024/06/14/12/15/developer-8829711_1280.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahur7830&label=Profile%20views&color=0e75b6&style=flat" alt="mahur7830" /> </p>
