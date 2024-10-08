@@ -34,10 +34,10 @@ Eager to learn and explore new technologies, enjoying projects that challenge an
 | S.No | Mini Major Project |                       Live Link                        |                                 GitHub Link                                  |
 | :--: | :----------------- | :----------------------------------------------------: | :--------------------------------------------------------------------------: |
 |  01  | Real Estate        | [Link](https://euphonious-truffle-3f452b.netlify.app/)   |           [Repository](https://github.com/mahur7830/realestate)            |
-|  02  | Air Bnb            | [Link](https://major-project-v6vn.onrender.com/listings) |         [Repository](https://github.com/mahur7830/MAJOR_PROJECT)         |
+|  02  | Air Bnb            | [Link](https://major-project-v6vn.onrender.com/listings) |         [Repository](https://github.com/mahur7830/MAJOR_PROJECT)           |
 |  03  | SimonSay Game Js   | [Link](https://akashdeep023.github.io/SimonSay_Game/)  |         [Repository](https://github.com/akashdeep023/SimonSay_Game)          |
 |  04  | Amazon Clone       |  [Link](https://akashdeep023.github.io/Amazon-Clone/)  |          [Repository](https://github.com/akashdeep023/Amazon-Clone)          |
-|  05  | Spotify Clone      | [Link](https://akashdeep023.github.io/Spotify-Clone/)  | [Repository](https://github.com/akashdeep023/Spotify-Clone) <sup>N-Res</sup> |
+|  05  | Spotify Clone      | [Link](https://mahur7830.github.io/Clone/)             |          [Repository](https://github.com/mahur7830/Clone)                    |
 |  06  | WhatApp Chat       |        [Link](https://github.com/akashdeep023/)        |                        [Repository]() <sup>Wait</sup>                        |
 |  07  | ToDo Game Redux    |   [Link](https://todo-list-redux-jack.netlify.app/)    |        [Repository](https://github.com/akashdeep023/ToDo-List-Redux)         |
 |  08  | ToDo Game React    |   [Link](https://task-list-react-jack.netlify.app/)    |        [Repository](https://github.com/akashdeep023/ToDo-List-React)         |
