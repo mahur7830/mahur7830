@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm ANIL KUMAR</h1>
 <h3 align="center">Looking for a position of web developer</h3>
 
+ ## Professional Summary
+Passionate web development enthusiast currently pursuing a Master of Computer Applications (MCA). Focused on full-stack development and mastering data structures and algorithms (DSA) with Java. Eager to learn and explore new technologies, enjoying projects that challenge and enhance skills.
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahur7830&label=Profile%20views&color=0e75b6&style=flat" alt="mahur7830" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@mahur412" target="blank"><img src="https://img.shields.io/twitter/follow/mahur412?logo=twitter&style=for-the-badge" alt="@mahur412" /></a> </p>
