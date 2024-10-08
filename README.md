@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Akash Deep (@akashdeep023)
+# 👋 Hi, I’m Anil Kumar 
 
 <p align="center">
   <b style="color: blue;  ">Visitor count</b>
@@ -12,7 +12,7 @@
 </a>
 
 ### 👀 Professional Summary
-Passionate web development enthusiast currently pursuing a Master of Computer Applications (MCA). Focused on full-stack development and mastering data structures and algorithms (DSA) with Java. Eager to learn and explore new technologies, enjoying projects that challenge and enhance skills.
+Passionate in web development enthusiast currently pursuing a Master of Computer Applications (MCA). Focused on full-stack development and mastering data structures and algorithms (DSA) with Java. Eager to learn and explore new technologies, enjoying projects that challenge and enhance skills.
 
 
 ---
@@ -21,10 +21,10 @@ Passionate web development enthusiast currently pursuing a Master of Computer Ap
 
 <!-- [![Twitter Badge](https://img.shields.io/badge/-@xyz-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/) -->
 
-[<img src="https://img.shields.io/badge/-Akashdeep-blue?style=for-the-badge&logo=Linkedin&logoColor=white" height="30" title="Follow me" />](https://www.linkedin.com/in/akashdeep023/)
-[<img src="https://img.shields.io/badge/-contact.akashdeep023@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" height="30" title="Follow me" />](mailto:contact.akashdeep023@gmail.com)
-[<img src="https://img.shields.io/badge/-@akashdeep023__-e4405f?style=for-the-badge&labelColor=f94877&logo=instagram&logoColor=white" height="30" title="Follow me" />](https://www.instagram.com/akashdeep023_/)
-[<img src="https://img.shields.io/github/followers/akashdeep023?label=akashdeep023&style=social" height="32" title="Follow me" />](https://github.com/akashdeep023)
+[<img src="https://img.shields.io/badge/-Anil-blue?style=for-the-badge&logo=Linkedin&logoColor=white" height="30" title="Follow me" />](https://www.linkedin.com/in/anil-kumar-92686b21b/)
+[<img src="https://img.shields.io/badge/-contact.mahuranil6@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" height="30" title="Follow me" />](mailto:contact.mahuranil6@gmail.com)
+[<img src="https://img.shields.io/badge/-@anil_chandravanshi78__-e4405f?style=for-the-badge&labelColor=f94877&logo=instagram&logoColor=white" height="30" title="Follow me" />](https://www.instagram.com/anil_chandravanshi78_/)
+[<img src="https://img.shields.io/github/followers/mahur7830?label=mahur7830&style=social" height="32" title="Follow me" />](https://github.com/mahur7830)
 </br></br>
 
 ## 💻 Some stats 💻
