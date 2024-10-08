@@ -27,23 +27,13 @@ Passionate in web development enthusiast currently pursuing a Master of Computer
 [<img src="https://img.shields.io/github/followers/mahur7830?label=mahur7830&style=social" height="32" title="Follow me" />](https://github.com/mahur7830)
 </br></br>
 
-## 💻 Some stats 💻
-
-<div style="align-items: center; width: 100%; display: flex; align-items: space-around; justify-content: space-around;">
-<a style="" href="https://github.com/akashdeep023">
-  <img height=350 align="center" src="https://github-readme-stats.vercel.app/api?username=akashdeep023&show_icons=true&theme=tokyonight&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=["contribs","issues"]"/>
-</a>
-<a style="" href="https://github.com/akashdeep023">
-  <img height=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashdeep023&theme=tokyonight&layout=donut-vertical"/>
-</a>
-</div>
 
 ## 👨‍💻 Languages and Tools
 
 <span>
   <a href="https://github.com/akashdeep023">
-<img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/material-ui%20-%23F05033.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>
@@ -56,11 +46,9 @@ Passionate in web development enthusiast currently pursuing a Master of Computer
 <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/github%20-white.svg?&style=for-the-badge&logo=git-hub&logoColor=white"/>
 <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/netlify-purple.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/>
-<img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/vercel-blue.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
 <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/render-yellow.svg?style=for-the-badge&logo=render&logoColor=white"/>
 <img alt="Badge" style="float: left; margin-right: 10px;" src="http://img.shields.io/badge/-java-yellow?style=for-the-badge&logo=java&logoColor=white"/>
-<img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-<img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/c++%20-%2314054C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=blue"/>
+<img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/c%20-%2314054C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=blue"/>
 </a>
 </span>
 <br>
