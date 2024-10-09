@@ -1,10 +1,23 @@
-<h1 align="center">Hi 👋, I'm ANIL KUMAR</h1>
+# <h1 align="center">Hi 👋, I'm ANIL KUMAR</h1>
 <h3 align="center">Looking for a position of web developer</h3>
 
- ## Professional Summary
-Passionate web development enthusiast currently pursuing a Master of Computer Applications (MCA). <br>
-Focused on full-stack development and data structures and algorithms (DSA) with Java. <br>
+<p align="center">
+  <b style="color: blue;  ">Visitor count</b>
+  <br>
+  <a style="" href="https://github.com/mahur7830">
+  <img src="https://profile-counter.glitch.me/mahur7830/count.svg" />
+  </a>
+</p>
+
+
+ # Professional Summary
+Passionate web development enthusiast currently pursuing a Master of Computer Applications (MCA). 
+Focused on full-stack development and data structures and algorithms (DSA) with Java. 
 Eager to learn and explore new technologies, enjoying projects that challenge and enhance skills.
+
+<a style="" href="https://github.com/mahur7830">
+<img align="right" alt="GIF" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" width="50%" height="70%" style="margin-top:100px;">
+</a>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahur7830&label=Profile%20views&color=0e75b6&style=flat" alt="mahur7830" /> </p>
