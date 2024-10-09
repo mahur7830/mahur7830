@@ -51,7 +51,7 @@ Eager to learn and explore new technologies, enjoying projects that challenge an
 |  05  | Spotify Clone      | [Link](https://mahur7830.github.io/Clone/)             |          [Repository](https://github.com/mahur7830/Clone)                    |
 |  03  | SimonSay Game Js   | [Link](https://mahur7830.github.io/simonSaysGame/)  |         [Repository](https://github.com/mahur7830/simonSaysGame)                |
 |  10  | Color Generator       |  [Link](https://mahur7830.github.io/ColorGenerator/)  |          [Repository](https://github.com/mahur7830/ColorGenerator)          |
-<br><br>
+
 
 
 ---
